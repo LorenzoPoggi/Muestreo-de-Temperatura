@@ -1,3 +1,3 @@
 # Muestreo-de-temperatura
-# Alumno: Spagnoletta, Facundo
-# 5° 1ra AV
+# Alumno: Poggi Janin, Lorenzo 
+# Curso: 5° 1ª avionica 
